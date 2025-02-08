@@ -2,6 +2,9 @@
 "Gone on a trip and struggled to split expenses? This project helps optimize transactions and settle debts efficiently. Using heaps and graph visualization (Vis.js), it minimizes transactions and clearly shows cash flow—like Splitwise, but smarter!"
 # Splitwise-Like Expense Optimizer
 
+https://sonal-97.github.io/ADA-Splitwise/
+use this link to access the website
+
 ## Overview
 
 When you go on trips or share expenses with friends, settling who owes what can be a nightmare. Instead of manually calculating transactions, this project helps optimize payments using **heaps** and **graph visualization (Vis.js)**. It minimizes transactions and provides a clear, visual representation of how money should be settled.
