@@ -41,3 +41,44 @@ body {
     margin:auto;
     display:block;
 }
+/* Add a soft gradient background */
+html, body {
+    height: 100%;
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(to right, #ece9e6, #ffffff); /* Light gray gradient */
+    color: #333;
+}
+/* Style for buttons */
+button {
+    font-size: 16px;
+    font-weight: bold;
+    padding: 10px 15px;
+    border-radius: 8px;
+    transition: 0.3s ease-in-out;
+}
+
+/* Hover effect */
+button:hover {
+    opacity: 0.8;
+}
+
+/* Set a distinct color for different buttons */
+#setPeople {
+    background-color: #007bff; /* Bootstrap primary color */
+    color: white;
+}
+
+#addTransaction {
+    background-color: #28a745; /* Bootstrap success color */
+    color: white;
+}
+
+#generate-graph {
+    background-color: #dc3545; /* Bootstrap danger color */
+    color: white;
+}
+
+#solve {
+    background-color: #17a2b8; /* Bootstrap info color */
+    color: white;
+}
